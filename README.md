@@ -1,5 +1,3 @@
-# Relatório – Visualizador de Arquivos Binários (AEDs III)
-
 ## 1. Integrantes do grupo
 
 **Participantes:** Pedro Henrique Cardoso Maia, Gabriel Egídio Santos Beloni, Gabriel Evangelista Massara, Thiago Aurélio Nunes Martins
